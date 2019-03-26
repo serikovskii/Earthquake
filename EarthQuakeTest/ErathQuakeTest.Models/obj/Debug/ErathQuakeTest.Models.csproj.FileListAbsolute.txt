@@ -1,0 +1,10 @@
+C:\Users\МукушевА.CORP\source\repos\EarthQuakeTest\ErathQuakeTest.Models\bin\Debug\ErathQuakeTest.Models.dll
+C:\Users\МукушевА.CORP\source\repos\EarthQuakeTest\ErathQuakeTest.Models\bin\Debug\ErathQuakeTest.Models.pdb
+C:\Users\МукушевА.CORP\source\repos\EarthQuakeTest\ErathQuakeTest.Models\bin\Debug\Newtonsoft.Json.dll
+C:\Users\МукушевА.CORP\source\repos\EarthQuakeTest\ErathQuakeTest.Models\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\МукушевА.CORP\source\repos\EarthQuakeTest\ErathQuakeTest.Models\bin\Debug\Newtonsoft.Json.xml
+C:\Users\МукушевА.CORP\source\repos\EarthQuakeTest\ErathQuakeTest.Models\obj\Debug\ErathQuakeTest.Models.csprojAssemblyReference.cache
+C:\Users\МукушевА.CORP\source\repos\EarthQuakeTest\ErathQuakeTest.Models\obj\Debug\ErathQuakeTest.Models.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА.CORP\source\repos\EarthQuakeTest\ErathQuakeTest.Models\obj\Debug\ErathQuakeTest.Models.csproj.CopyComplete
+C:\Users\МукушевА.CORP\source\repos\EarthQuakeTest\ErathQuakeTest.Models\obj\Debug\ErathQuakeTest.Models.dll
+C:\Users\МукушевА.CORP\source\repos\EarthQuakeTest\ErathQuakeTest.Models\obj\Debug\ErathQuakeTest.Models.pdb

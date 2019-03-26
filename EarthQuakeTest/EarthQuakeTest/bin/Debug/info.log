@@ -1,0 +1,11 @@
+26.03.2019 11:03:24 - Запрос https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&limit=50
+26.03.2019 11:09:28 - Запрос https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&limit=50
+26.03.2019 11:10:16 - Запрос https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&limit=50
+26.03.2019 11:10:17 - Запись ErathQuakeTest.Models.FeatureCollection в файл
+26.03.2019 11:10:17 - Получение списка List`1 из файла
+26.03.2019 11:14:42 - Запрос https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&limit=50
+26.03.2019 11:14:43 - Запись ErathQuakeTest.Models.FeatureCollection в файл
+26.03.2019 11:14:43 - Получение списка List`1 из файла
+26.03.2019 11:15:34 - Запрос https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&limit=50
+26.03.2019 11:15:35 - Запись ErathQuakeTest.Models.FeatureCollection в файл
+26.03.2019 11:15:35 - Получение списка List`1 из файла

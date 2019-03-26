@@ -1,0 +1,17 @@
+C:\Users\МукушевА.CORP\source\repos\EarthQuakeTest\EarthQuakeTest\bin\Debug\EarthQuakeTest.exe.config
+C:\Users\МукушевА.CORP\source\repos\EarthQuakeTest\EarthQuakeTest\bin\Debug\EarthQuakeTest.exe
+C:\Users\МукушевА.CORP\source\repos\EarthQuakeTest\EarthQuakeTest\bin\Debug\EarthQuakeTest.pdb
+C:\Users\МукушевА.CORP\source\repos\EarthQuakeTest\EarthQuakeTest\bin\Debug\EarthQuakeTest.Services.Abstract.dll
+C:\Users\МукушевА.CORP\source\repos\EarthQuakeTest\EarthQuakeTest\bin\Debug\EarthQuakeTest.Services.dll
+C:\Users\МукушевА.CORP\source\repos\EarthQuakeTest\EarthQuakeTest\bin\Debug\ErathQuakeTest.Models.dll
+C:\Users\МукушевА.CORP\source\repos\EarthQuakeTest\EarthQuakeTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\МукушевА.CORP\source\repos\EarthQuakeTest\EarthQuakeTest\bin\Debug\EarthQuakeTest.Services.Abstract.pdb
+C:\Users\МукушевА.CORP\source\repos\EarthQuakeTest\EarthQuakeTest\bin\Debug\EarthQuakeTest.Services.pdb
+C:\Users\МукушевА.CORP\source\repos\EarthQuakeTest\EarthQuakeTest\bin\Debug\ErathQuakeTest.Models.pdb
+C:\Users\МукушевА.CORP\source\repos\EarthQuakeTest\EarthQuakeTest\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\МукушевА.CORP\source\repos\EarthQuakeTest\EarthQuakeTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\МукушевА.CORP\source\repos\EarthQuakeTest\EarthQuakeTest\obj\Debug\EarthQuakeTest.Console.csprojAssemblyReference.cache
+C:\Users\МукушевА.CORP\source\repos\EarthQuakeTest\EarthQuakeTest\obj\Debug\EarthQuakeTest.Console.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА.CORP\source\repos\EarthQuakeTest\EarthQuakeTest\obj\Debug\EarthQuakeTest.Console.csproj.CopyComplete
+C:\Users\МукушевА.CORP\source\repos\EarthQuakeTest\EarthQuakeTest\obj\Debug\EarthQuakeTest.exe
+C:\Users\МукушевА.CORP\source\repos\EarthQuakeTest\EarthQuakeTest\obj\Debug\EarthQuakeTest.pdb
